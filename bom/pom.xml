@@ -65,7 +65,7 @@
 		<owaspCsrfGuardVersion>4.5.0-jakarta</owaspCsrfGuardVersion>
 		<owaspEncoderVersion>1.6.0</owaspEncoderVersion>
 		<bouncyCastleVersion>1.86</bouncyCastleVersion>
-		<graalJsVersion>25.4.4.1.1</graalJsVersion>
+		<graalJsVersion>25.5.5.0.3</graalJsVersion>
 		<nettyVersion>4.2.19.Final</nettyVersion>
 
 		<!-- Jakarta -->
